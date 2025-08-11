@@ -26,8 +26,9 @@ To create a visually engaging and interactive tool that helps users explore mark
 
 ## 📁 Files
 - `RealEstateMarketAnalysis.pbix` – Main Power BI file
-- `screenshot.png` – Dashboard preview
-- `sample-data.xlsx` – Cleaned or anonymized dataset (if included)
+- `screenshot 01.png` – Dashboard preview
+- `screenshot 02.png` – Property Insights & Valuation preview
+- `RealEstateData.xlsx` – Cleaned or anonymized dataset (if included)
 
 ---
 
